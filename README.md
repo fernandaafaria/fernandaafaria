@@ -13,3 +13,5 @@ Estou no início da minha jornada em desenvolvimento, com conhecimento básico e
 **📫 Contato**
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fernandaafsilva007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/fernanda-faria-bb785b427/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandaafaria/fernandaafaria/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandaafaria/fernandaafaria/output/github-contribution-grid-snake.svg" /> <img alt="cobrinha comendo contribuições" src="https://raw.githubusercontent.com/fernandaafaria/fernandaafaria/output/github-contribution-grid-snake.svg" /> </picture> </p>
