@@ -1,6 +1,6 @@
 <h2 align="center">👩‍💻 Sobre mim 👩‍💻</h2>
 
-Oi! Eu sou Fernanda Faria, estudante de Desenvolvimento de Software Multiplataforma na Fatec ZL, atualmente no 1º semestre. Sou formada em Redes de Computadores pelo SENAI e atualmente sou Jovem Aprendiz no Metrô de SP, onde também realizo, pelo SENAI, a formação técnica em Desenvolvimento de Sistemas, unindo essa vivência profissional com os estudos em programação.
+Oi! Eu sou Fernanda Faria, estudante de Desenvolvimento de Software Multiplataforma na Fatec ZL, atualmente no 1º semestre. Sou formada em Redes de Computadores pelo SENAI e atualmente sou Jovem Aprendiz no Metrô de SP, onde realizo, pelo SENAI, a formação técnica em Desenvolvimento de Sistemas.
 
 Estou no início da minha jornada em desenvolvimento, com conhecimento básico em HTML, CSS, JavaScript, Python e Java, e busco aprender cada vez mais, explorando novas tecnologias e evoluindo um pouco mais a cada dia.
 
